@@ -1,5 +1,7 @@
 # Hackintosh, Asus TUF Gaming B550-Plus WiFi II, AMD Ryzen 7 5700X [8c/16t], AMD Radeon RX 6650 XT
 
+<img width="1988" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/023a9b43-7bb0-4521-a2df-d9cd27299818" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7)
